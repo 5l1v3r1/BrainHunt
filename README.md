@@ -59,8 +59,8 @@
     python3 BrainHunt_SEQ.py -th 1 -id 0 -dbbtc BF/all.bf -dbeth BF/eth.bf -bal -telegram -word genesis -desc home
     ```
 
-##PS
+## P.S.
     в программу добаылены куча генераторов, которые решат все ваши потребности.
 
-##Заинтересованы ?
+## Заинтересованы ?
     пишите в Telegram
